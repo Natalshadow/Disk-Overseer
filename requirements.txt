@@ -1,0 +1,3 @@
+gotify
+python-dotenv
+psutil 
