@@ -1,0 +1,1 @@
+A monitoring tool built to prevent server downtime. Scans disk usage across partitions and integrates with Gotify for instant push notifications. Includes a recursive scan feature to identify the top 10 space-consuming files when thresholds are hit.
